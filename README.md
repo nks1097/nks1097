@@ -43,13 +43,35 @@ Desenvolvo soluções para modernizar operações de segurança integrando ferra
 
 ---
 
-### 💻 Stack Tecnológica & Especialidades
+### 💻 Stack Tecnológica & Ferramentas
 
-```text
-Segurança:     Wazuh SIEM, TheHive, Cortex, MISP, Suricata, Sysmon, VirusTotal
-Automação:     Model Context Protocol (MCP), Python, SOAR, Docker, REST APIs, JSON-RPC
-Monitoramento: Zabbix Enterprise, Splunk Enterprise, Palo Alto Networks, ServiceNow
-```
+#### 🛡️ Cybersecurity, SIEM & SOAR
+[![Wazuh](https://img.shields.io/badge/Wazuh-002D62?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com)
+[![TheHive](https://img.shields.io/badge/TheHive-F39C12?style=for-the-badge&logo=hive&logoColor=white)](https://thehive-project.org)
+[![MISP](https://img.shields.io/badge/MISP-000000?style=for-the-badge&logoColor=white)](https://www.misp-project.org)
+[![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=for-the-badge&logoColor=white)](https://suricata.io)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://virustotal.com)
+[![Microsoft Sysmon](https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/sysinternals/downloads/sysmon)
+
+#### 🤖 Inteligência Artificial, Protocolos & Automação
+[![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-10b981?style=for-the-badge&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io)
+[![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+
+#### 📊 Observabilidade, Redes & Gestão (ITSM)
+[![Splunk Enterprise](https://img.shields.io/badge/Splunk_Enterprise-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://splunk.com)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://paloaltonetworks.com)
+[![Zabbix Enterprise](https://img.shields.io/badge/Zabbix_Enterprise-D40000?style=for-the-badge&logo=zabbix&logoColor=white)](https://zabbix.com)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)](https://servicenow.com)
+
+---
+
+### 📫 Conecte-se comigo
+
+[![Email](https://img.shields.io/badge/Email-natanael1097%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanael1097@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nks1097-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nks1097)
 
 ---
 *⭐ Sinta-se à vontade para explorar os repositórios, abrir issues ou contribuir!*
