@@ -14,8 +14,9 @@ Desenvolvo soluções para modernizar operações de segurança integrando ferra
 | [**Palo Alto Networks MCP**](https://github.com/nks1097/palo-alto-networks-mcp) | Administração e observabilidade de firewalls PAN-OS e Panorama via IA. | **100 Ferramentas** |
 | [**Splunk Enterprise MCP**](https://github.com/nks1097/splunk-enterprise-mcp) | Busca, threat hunting, diagnóstico de cluster e operações de SOC com Splunk. | **100 Ferramentas** |
 | [**ServiceNow MCP Server**](https://github.com/nks1097/ServiceNow-MCP-Server) | Automação corporativa para ITSM, CMDB, SecOps e gestão de mudanças. | **97 Ferramentas** |
-| [**SOC MCP Orchestrator**](https://github.com/nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp) | Orquestração SOAR unificando Wazuh, TheHive 5, Cortex e MISP. | **100% Automação** |
 | [**Wazuh MCP Server**](https://github.com/nks1097/Wazuh_Servidor_MCP) | Gestão de agentes, regras, integridade (FIM) e resposta ativa em SIEM. | **78 Ferramentas** |
+| [**SOC MCP Orchestrator**](https://github.com/nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp) | Orquestração SOAR unificando Wazuh, TheHive 5, Cortex e MISP com automação e fluxos em português. | **70 Ferramentas** |
+| [**TheHive MCP Server**](https://github.com/nks1097/TheHive-MCP-Server) | Servidor MCP dedicado para gestão e triagem de incidentes integrado ao Cortex e MISP. | **70 Ferramentas** |
 
 ---
 
