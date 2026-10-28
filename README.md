@@ -22,11 +22,24 @@ Desenvolvo soluções para modernizar operações de segurança integrando ferra
 
 ### 📚 Guias Práticos, Labs & Rulesets para SOC
 
-- 🎯 **[Wazuh Sysmon Enhanced Ruleset v5.0](https://github.com/nks1097/WAZUH_SYSMON_RULES):** Regras avançadas de detecção para Microsoft Sysmon no Wazuh.
-- ⚡ **[Integração Sysmon + Wazuh](https://github.com/nks1097/INTEGRACAO_SYSMON_WAZUH):** Passo a passo de instalação, configuração e coleta de telemetria.
-- 🔍 **[Integração Wazuh + VirusTotal](https://github.com/nks1097/INTEGRACAO_WAZUH_COM_VIRUSTOTAL):** Verificação automatizada de binários e hashes suspeitos.
-- 🐳 **[Lab TheHive + Cortex + MISP com Docker](https://github.com/nks1097/DOCKER-THE_HIVE_CORTEX_MISP_LAB):** Ambiente pronto para estudo e testes de resposta a incidentes.
-- 🛡️ **[Suricata IDS/IPS no Windows 11 com Wazuh](https://github.com/nks1097/SURICATA-WAZUH-WINDOWS11):** Análise de tráfego de rede integrada ao SIEM.
+#### 🎯 Regras de Detecção & Telemetria
+- 🛡️ **[Wazuh Sysmon Enhanced Ruleset v5.0](https://github.com/nks1097/WAZUH_SYSMON_RULES):** Regras avançadas de detecção para Microsoft Sysmon no Wazuh (Ultimate SOC).
+- ⚡ **[Integração Sysmon + Wazuh](https://github.com/nks1097/INTEGRACAO_SYSMON_WAZUH):** Guia completo de instalação, integração e telemetria do Microsoft Sysmon com Wazuh.
+- 🌐 **[Suricata IDS/IPS no Windows 11 com Wazuh](https://github.com/nks1097/SURICATA-WAZUH-WINDOWS11):** Instalação e monitoramento de tráfego de rede via Suricata integrado ao SIEM.
+
+#### 🔄 Integrações & Resposta a Incidentes (SOAR)
+- 🔍 **[Integração Wazuh + VirusTotal](https://github.com/nks1097/INTEGRACAO_WAZUH_COM_VIRUSTOTAL):** Verificação automatizada de binários e hashes suspeitos no VirusTotal.
+- 🐝 **[Integração Wazuh + TheHive](https://github.com/nks1097/INTEGRACAO_WAZUH_THEHIVE):** Automação para envio de alertas do SIEM e abertura de incidentes no TheHive.
+- 🧩 **[Integração TheHive + Cortex + MISP](https://github.com/nks1097/INTEGRACAO_THEHIVE_CORTEX_MISP):** Passo a passo completo para integrar a tríade open-source de resposta e inteligência de ameaças.
+
+#### 🔔 Notificações & Alertas Operacionais
+- 📱 **[Alertas Wazuh via Telegram](https://github.com/nks1097/INTEGRACAO_WAZUH_TELEGRAM):** Notificações de segurança e alertas em tempo real direto no Telegram via script Python.
+- ✉️ **[Alertas Wazuh por E-mail via Postfix](https://github.com/nks1097/INTEGRACAO_WAZUH_EMAIL_POSTFIX):** Configuração de alertas por e-mail no Wazuh com relay Postfix e Gmail (SMTP).
+
+#### 🐳 Labs de SOC & Ambientes Docker
+- 🧪 **[Docker Lab TheHive 5.2 + Cortex + MISP](https://github.com/nks1097/DOCKER-THE_HIVE_5.2_community_CORTEX_MISP_LAB):** Ambiente pronto para laboratório com TheHive 5.2 Community, Cortex e MISP via Docker Compose.
+- 🚀 **[Docker Lab TheHive + Cortex + MISP](https://github.com/nks1097/DOCKER-THE_HIVE_CORTEX_MISP_LAB):** Stack conteinerizada para estudo e simulação de resposta a incidentes.
+- 💻 **[TheHive + Cortex Ultra Leve (4GB RAM)](https://github.com/nks1097/THE_HIVE_CORTEX_ULTRA_LEVE_4GB):** Configuração otimizada para executar TheHive e Cortex com consumo reduzido de memória.
 
 ---
 
