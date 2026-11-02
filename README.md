@@ -2,21 +2,26 @@
 
 Engenheiro focado em **Cybersecurity, SOC & Automação Inteligente (SIEM/SOAR + Model Context Protocol - MCP)**.
 
-Desenvolvo soluções para modernizar operações de segurança integrando ferramentas líderes de mercado com **Agentes de Inteligência Artificial** através do protocolo MCP.
+Desenvolvo ecossistemas de alta performance para modernizar operações de segurança e infraestrutura, integrando ferramentas líderes de mercado com **Agentes de Inteligência Artificial** através do protocolo MCP.
 
 ---
 
-### 🛡️ Servidores MCP para Operações de Segurança & TI (Destaques)
+### 🛡️ Servidores MCP para Operações de Segurança, TI & Observabilidade (Destaques)
 
-| Servidor MCP | Descrição | Ferramentas |
+> **Ecossistema com 10 Servidores MCP Oficiais e mais de 900 ferramentas prontas para Agentes de IA.**
+
+| Servidor MCP | Descrição & Escopo | Ferramentas |
 | :--- | :--- | :---: |
+| [**Active Directory MCP**](https://github.com/nks1097/microsoft-active-directory-mcp) | Gestão de identidades AD DS, OUs, GPOs, DNS integrado, auditoria e cofre de credenciais Windows DPAPI. | **100 Ferramentas** |
+| [**Suricata MCP Server**](https://github.com/nks1097/suricata-mcp-server) | Análise de tráfego de rede, inspeção de telemetria EVE JSON, regras de detecção e auditoria IDS/IPS / NSM. | **100 Ferramentas** |
+| [**Grafana MCP Server**](https://github.com/nks1097/grafana-mcp-server) | Motor autônomo de criação de dashboards por prompt (9 estágios), consultas PromQL/LogQL/SQL e alertas. | **100 Ferramentas** |
 | [**Zabbix MCP Server**](https://github.com/nks1097/zabbix-mcp-server) | Descoberta de rede em 6 estágios, onboarding inteligente, relatórios corporativos (PDF/XLSX) e auditoria local. | **100 Ferramentas** |
-| [**Palo Alto Networks MCP**](https://github.com/nks1097/palo-alto-networks-mcp) | Administração e observabilidade de firewalls PAN-OS e Panorama via IA. | **100 Ferramentas** |
-| [**Splunk Enterprise MCP**](https://github.com/nks1097/splunk-enterprise-mcp) | Busca, threat hunting, diagnóstico de cluster e operações de SOC com Splunk. | **100 Ferramentas** |
-| [**ServiceNow MCP Server**](https://github.com/nks1097/ServiceNow-MCP-Server) | Automação corporativa para ITSM, CMDB, SecOps e gestão de mudanças. | **97 Ferramentas** |
-| [**Wazuh MCP Server**](https://github.com/nks1097/Wazuh_Servidor_MCP) | Gestão de agentes, regras, integridade (FIM) e resposta ativa em SIEM. | **78 Ferramentas** |
-| [**SOC MCP Orchestrator**](https://github.com/nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp) | Orquestração SOAR unificando Wazuh, TheHive 5, Cortex e MISP com automação e fluxos em português. | **70 Ferramentas** |
-| [**TheHive MCP Server**](https://github.com/nks1097/TheHive-MCP-Server) | Servidor MCP dedicado para gestão e triagem de incidentes integrado ao Cortex e MISP. | **70 Ferramentas** |
+| [**Palo Alto Networks MCP**](https://github.com/nks1097/palo-alto-networks-mcp) | Administração, regras de segurança e observabilidade de firewalls PAN-OS e Panorama via IA. | **100 Ferramentas** |
+| [**Splunk Enterprise MCP**](https://github.com/nks1097/splunk-enterprise-mcp) | Consultas SPL, threat hunting avançado, diagnóstico de cluster e operações de SOC com Splunk. | **100 Ferramentas** |
+| [**ServiceNow MCP Server**](https://github.com/nks1097/ServiceNow-MCP-Server) | Automação corporativa para ITSM, CMDB, SecOps, Catálogo de Serviços e gestão de mudanças. | **97 Ferramentas** |
+| [**Wazuh MCP Server**](https://github.com/nks1097/Wazuh_Servidor_MCP) | Gestão de agentes, regras, integridade de arquivos (FIM) e resposta ativa em SIEM. | **78 Ferramentas** |
+| [**SOC MCP Orchestrator**](https://github.com/nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp) | Orquestração SOAR unificando Wazuh, TheHive 5, Cortex e MISP com fluxos de automação em português. | **70 Ferramentas** |
+| [**TheHive MCP Server**](https://github.com/nks1097/TheHive-MCP-Server) | Servidor MCP dedicado para gestão e triagem de incidentes de segurança integrado ao Cortex e MISP. | **70 Ferramentas** |
 
 ---
 
@@ -45,11 +50,12 @@ Desenvolvo soluções para modernizar operações de segurança integrando ferra
 
 ### 💻 Stack Tecnológica & Ferramentas
 
-#### 🛡️ Cybersecurity, SIEM & SOAR
+#### 🛡️ Cybersecurity, SIEM, SOAR & Identidade
 [![Wazuh](https://img.shields.io/badge/Wazuh-002D62?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/active-directory-domain-services)
+[![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=for-the-badge&logoColor=white)](https://suricata.io)
 [![TheHive](https://img.shields.io/badge/TheHive-F39C12?style=for-the-badge&logo=hive&logoColor=white)](https://thehive-project.org)
 [![MISP](https://img.shields.io/badge/MISP-000000?style=for-the-badge&logoColor=white)](https://www.misp-project.org)
-[![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=for-the-badge&logoColor=white)](https://suricata.io)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://virustotal.com)
 [![Microsoft Sysmon](https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/sysinternals/downloads/sysmon)
 
@@ -61,6 +67,8 @@ Desenvolvo soluções para modernizar operações de segurança integrando ferra
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
 #### 📊 Observabilidade, Redes & Gestão (ITSM)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
 [![Splunk Enterprise](https://img.shields.io/badge/Splunk_Enterprise-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://splunk.com)
 [![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://paloaltonetworks.com)
 [![Zabbix Enterprise](https://img.shields.io/badge/Zabbix_Enterprise-D40000?style=for-the-badge&logo=zabbix&logoColor=white)](https://zabbix.com)
